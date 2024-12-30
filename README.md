@@ -11,6 +11,12 @@
 4. :heavy_check_mark: SOUNDS
 5. :heavy_check_mark: EVENTS
 6. :o: OPERATORS
+7. :o: CONTROL
+8. :o: SENSING
+9. :o: VARIABLES
+10. :o: MY BLOCKS
+11. :o: EXTENSIONS
+12. :o: IMAGE EDITOR/IMPORTING
 
 ### Projecten
 
